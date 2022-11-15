@@ -7,7 +7,6 @@
   <input v-model="fullName">
 </template>
        
-       
 <script>
 import { computed, reactive } from 'vue'
 export default {
